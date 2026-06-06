@@ -6,6 +6,8 @@ This folder contains the public pages needed for App Store Connect.
 
 - `support.html`
 - `privacy.html`
+- `support-tr.html`
+- `privacy-tr.html`
 
 ## Suggested GitHub Repository
 
@@ -43,4 +45,10 @@ https://{github-username}.github.io/shot-cleaner-support/support.html
 
 Privacy Policy URL:
 https://{github-username}.github.io/shot-cleaner-support/privacy.html
+
+Turkish Support URL:
+https://{github-username}.github.io/shot-cleaner-support/support-tr.html
+
+Turkish Privacy Policy URL:
+https://{github-username}.github.io/shot-cleaner-support/privacy-tr.html
 ```
